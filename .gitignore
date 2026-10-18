@@ -1,0 +1,6 @@
+out/
+*.class
+*.pdf
+*.html
+Otchet.md
+verify/
